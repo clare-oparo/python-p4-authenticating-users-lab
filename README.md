@@ -108,5 +108,5 @@ started!
 
 ## Resources
 
-- [What is Authentication? - auth0](https://auth0.com/intro-to-iam/what-is-authentication)
+- [What is Authentication? - auth0](https://auth0.com/intro-to-iam/what-is-authentinstication)
 - [API - Flask: class flask.session](https://flask.palletsprojects.com/en/2.2.x/api/#flask.session)
